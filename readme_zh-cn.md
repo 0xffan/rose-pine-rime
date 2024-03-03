@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for RIME</h2>
+    <h2 align="center">Rosé Pine for App</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -44,7 +44,7 @@ patch:
 
 ### 小狼毫（Weasel）
 
-使用方法同[鼠须管（Squirrel）](#鼠须管（Squirrel）)，唯一不同的是配色方案位于 [`./weasel/rose_pine_color_schemes.yaml`](./weasel/rose_pine_color_schemes.yaml)，而不是 `./squirrel/rose_pine_color_schemes.yaml`。
+使用方法同鼠须管（Squirrel），唯一不同的是配色方案位于 [`./weasel/rose_pine_color_schemes.yaml`](./weasel/rose_pine_color_schemes.yaml)，而不是 `./squirrel/rose_pine_color_schemes.yaml`，，并且小狼毫的自定义配置文件是 `weasel.custom.yaml`，而不是 `squirrel.custom.yaml`。
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for RIME</h2>
+    <h2 align="center">Rosé Pine for App</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -12,6 +12,8 @@
 </p>
 
 ## Usage
+
+[简体中文](./readme_zh-cn.md)
 
 ### Squirrel (macOS)
 
@@ -43,7 +45,7 @@ patch:
 
 ### Weasel (Windows)
 
-The usage is the same as for [Squirrel](#Squirrel), with the only difference being that the color scheme is located in [./weasel/rose_pine_color_schemes.yaml](./weasel/rose_pine_color_schemes.yaml) instead of `./squirrel/rose_pine_color_schemes.yaml`.
+The usage is the same as for Squirrel, with the only difference being that the color scheme is located in [./weasel/rose_pine_color_schemes.yaml](./weasel/rose_pine_color_schemes.yaml) instead of `./squirrel/rose_pine_color_schemes.yaml`, and Weasel's custom configuration file is `weasel.custom.yaml` instead of `squirrel.custom.yaml`.
 
 ## Gallery
 
