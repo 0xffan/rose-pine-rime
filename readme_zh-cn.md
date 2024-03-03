@@ -11,39 +11,40 @@
     </a>
 </p>
 
-## Usage
 
-### Squirrel (macOS)
+## 用法
 
-#### Option 1
+### 鼠须管（Squirrel）
 
-Edit your `squirrel.custom.yaml` file (create it if it doesn't exist), and copy the contents of [`./squirrel/rose_pine_color_schemes.yaml`](./squirrel/rose_pine_color_schemes.yaml) to the `preset_color_schemes` node. Here's how:
+#### 方式 1
 
-```yaml
-patch:
-  # ......(other configuration items are omitted)
-  preset_color_schemes/+:
-    # Copy the contents of `./squirrel/rose_pine_color_schemes.yaml` here
-  # ......(other configuration items are omitted)
-
-```
-
-#### Option 2
-
-Copy the [./squirrel/rose_pine_color_schemes.yaml](./squirrel/rose_pine_color_schemes.yaml) file to the folder where `squirrel.custom.yaml` is located. Use the `__include` statement to import the color scheme into the `preset_color_schemes` node in `squirrel.custom.yaml`, as shown below:
+编辑你的 `squirrel.custom.yaml` 文件（如果没有请创建它）, 拷贝 [./squirrel/rose_pine_color_schemes.yaml](./squirrel/rose_pine_color_schemes.yaml) 的内容到 `preset_color_schemes` 节点下。如下所示： 
 
 ```yaml
 patch:
-  # ......(other configuration items are omitted)
+  # ......（省略其他配置项）
   preset_color_schemes/+:
-    __include: rose_pine_color_schemes # Include the contents of `./squirrel/rose_pine_color_schemes.yaml`
-  # ......(other configuration items are omitted)
+    # 拷贝 `./squirrel/rose_pine_color_schemes.yaml` 的内容到这里
+  # ......（省略其他配置项）
 
 ```
 
-### Weasel (Windows)
+#### 方式 2
 
-The usage is the same as for [Squirrel](#Squirrel), with the only difference being that the color scheme is located in [./weasel/rose_pine_color_schemes.yaml](./weasel/rose_pine_color_schemes.yaml) instead of `./squirrel/rose_pine_color_schemes.yaml`.
+拷贝 [./squirrel/rose_pine_color_schemes.yaml](./squirrel/rose_pine_color_schemes.yaml) 文件至 `squirrel.custom.yaml` 所在的文件夹下。引入配色方案到 `squirrel.custom.yaml` 中的 `preset_color_schemes` 节点。如下所示：
+
+```yaml
+patch:
+  # ......（省略其他配置项）
+  preset_color_schemes/+:
+  	__include: rose_pine_color_schemes # 引入 `./squirrel/rose_pine_color_schemes.yaml` 的内容
+  # ......（省略其他配置项）
+
+```
+
+### 小狼毫（Weasel）
+
+使用方法同[鼠须管（Squirrel）](#鼠须管（Squirrel）)，唯一不同的是配色方案位于 [`./weasel/rose_pine_color_schemes.yaml`](./weasel/rose_pine_color_schemes.yaml)，而不是 `./squirrel/rose_pine_color_schemes.yaml`。
 
 ## Gallery
 

@@ -1,0 +1,45 @@
+rose_pine:
+  name: "Rosé Pine"
+  author: "0xffan"
+  description: "All natural pine, faux fur and a bit of soho vibes for the classy minimalist"
+  color_space: display_p3
+  back_color: 0x2E1D1F
+  candidate_text_color: 0xDAF4DEE0
+  comment_text_color: 0x866A6E
+  label_color: 0xD8866A6E
+  hilited_candidate_back_color: 0xD8926FEB
+  hilited_candidate_text_color: 0xF4DEE0
+  hilited_comment_text_color: 0x866A6E
+  hilited_candidate_label_color: 0xB2F4DEE0
+  text_color: 0x866A6E
+  hilited_text_color: 0xD8F4DEE0
+rose_pine_moon:
+  name: "Rosé Pine Moon"
+  author: "0xffan"
+  description: "All natural pine, faux fur and a bit of soho vibes for the classy minimalist"
+  color_space: display_p3
+  back_color: 0x3F272A
+  candidate_text_color: 0xDAF4DEE0
+  comment_text_color: 0x866A6E
+  label_color: 0xD8866A6E
+  hilited_candidate_back_color: 0xD8926FEB
+  hilited_candidate_text_color: 0xF4DEE0
+  hilited_comment_text_color: 0x866A6E
+  hilited_candidate_label_color: 0xB2F4DEE0
+  text_color: 0x866A6E
+  hilited_text_color: 0xD8F4DEE0
+rose_pine_dawn:
+  name: "Rosé Pine Dawn"
+  author: "0xffan"
+  description: "All natural pine, faux fur and a bit of soho vibes for the classy minimalist"
+  color_space: display_p3
+  back_color: 0xF3FAFF
+  candidate_text_color: 0xD8795257
+  comment_text_color: 0xD8A59398
+  label_color: 0xD8A59398
+  hilited_candidate_back_color: 0xE1E9F2
+  hilited_candidate_text_color: 0xD87A63B4
+  hilited_comment_text_color: 0xDAA59398
+  hilited_candidate_label_color: 0xD9A59398
+  text_color: 0xD9A59398
+  hilited_text_color: 0xD8795257
