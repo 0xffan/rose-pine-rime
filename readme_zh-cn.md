@@ -48,7 +48,13 @@ patch:
 
 ## Gallery
 
+#### 鼠须管（Squirrel）
+
 ![Rosé Pine RIME](./preview.png)
+
+#### 小狼毫（Weasel）
+
+![Rosé Pine RIME](./preview-weasel.png)
 
 ## Thanks to
 

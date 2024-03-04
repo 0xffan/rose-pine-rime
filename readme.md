@@ -49,7 +49,13 @@ The usage is the same as for Squirrel, with the only difference being that the c
 
 ## Gallery
 
+#### Squirrel
+
 ![Rosé Pine RIME](./preview.png)
+
+#### Weasel
+
+![Rosé Pine RIME](./preview-weasel.png)
 
 ## Thanks to
 
