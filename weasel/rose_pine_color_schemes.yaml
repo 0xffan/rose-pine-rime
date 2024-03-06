@@ -2,7 +2,7 @@ rose_pine:
   name: "Rosé Pine"
   author: "0xffan"
   back_color: 0x2E1D1F
-  shadow_color: 0x2E1D1F
+  shadow_color: 0x302E1D1F
   border_color: 0x241719
   text_color: 0x866A6E
   hilited_text_color: 0xF4DEE0
@@ -22,7 +22,7 @@ rose_pine_moon:
   name: "Rosé Pine Moon"
   author: "0xffan"
   back_color: 0x3F272A
-  shadow_color: 0x3F272A
+  shadow_color: 0x303F272A
   border_color: 0x362123
   text_color: 0x866A6E
   hilited_text_color: 0xF4DEE0
@@ -42,7 +42,7 @@ rose_pine_dawn:
   name: "Rosé Pine Dawn"
   author: "0xffan"
   back_color: 0xF3FAFF
-  shadow_color: 0x2E1D1F
+  shadow_color: 0x302E1D1F
   border_color: 0xCDCACE
   text_color: 0xD8795257
   hilited_text_color: 0x795257
